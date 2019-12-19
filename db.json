@@ -1,0 +1,11 @@
+{
+  "bookslist": [
+    { "id": 1, "title": "C/C++ Programming 1", "author": "Anyone 1", "publisher": "Anyone Too 1", "image": "https://images-na.ssl-images-amazon.com/images/I/51hH6DAw87L._SX370_BO1,204,203,200_.jpg" },
+    { "id": 2, "title": "C/C++ Programming 2", "author": "Anyone 2", "publisher": "Anyone Too 2", "image": "https://images-na.ssl-images-amazon.com/images/I/51hH6DAw87L._SX370_BO1,204,203,200_.jpg" },
+    { "id": 3, "title": "C/C++ Programming 3", "author": "Anyone 3", "publisher": "Anyone Too 3", "image": "https://images-na.ssl-images-amazon.com/images/I/51hH6DAw87L._SX370_BO1,204,203,200_.jpg" },
+    { "id": 4, "title": "C/C++ Programming 4", "author": "Anyone 4", "publisher": "Anyone Too 4", "image": "https://images-na.ssl-images-amazon.com/images/I/51hH6DAw87L._SX370_BO1,204,203,200_.jpg" }
+  ], 
+  "profile": {
+    "name": "SSCT"
+  }
+}
